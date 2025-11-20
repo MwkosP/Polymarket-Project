@@ -23,6 +23,8 @@ Built with clarity and automation in mind — no manual condition IDs, no guessi
 <img width="806" height="625" alt="image" src="https://github.com/user-attachments/assets/6ba82beb-2190-48f5-b878-7d6a04a3ea31" />
 
 
+#Future Implementations: Data science,ML , Whale tracking,Automated Possible Insiders Tracking,...
+
 
 
 
