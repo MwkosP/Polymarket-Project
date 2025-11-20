@@ -5,7 +5,7 @@ Built with clarity and automation in mind — no manual condition IDs, no guessi
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Fetch Polymarket events & markets by category  
 - Filter markets by keywords  
@@ -18,8 +18,10 @@ Built with clarity and automation in mind — no manual condition IDs, no guessi
 
 ---
 
-## 📂 Project Structure
-<img width="352" height="391" alt="image" src="https://github.com/user-attachments/assets/ea202cbc-0a30-4cda-bf7d-a379a2f799dd" />
+##  Project Structure
+
+<img width="456" height="749" alt="image" src="https://github.com/user-attachments/assets/effca52e-7764-4f46-b62d-32af1eb2d282" />
+
 
 
 
