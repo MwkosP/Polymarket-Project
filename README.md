@@ -1,19 +1,17 @@
 # 🔮 Polymarket Market Scanner & Holder Analyzer
 
 A Python toolkit for discovering Polymarket events, filtering markets, and fetching the top on-chain holders for any outcome (YES/NO).  
-Built with clarity and automation in mind — no manual condition IDs, no guessing.
+Built with clarity and automation in mind — no manual Searching, no guessing.
 
 ---
 
 ##  Features
 
-- Fetch Polymarket events & markets by category  
-- Filter markets by keywords  
-- Filter events by expiration window  
-- Automatically extract `conditionId` from any selected market  
+- Fetch Polymarket events & markets by category   
+- Filter events & Markets by expirations,keywords,holders, etc.. 
+- Automatically extract info from any market and user  
 - Fetch **top on-chain holders** for each outcome using Polymarket’s `/holders` API  
-- Automatically merge duplicate holder entries  
-- Clean output for both verbose and silent modes  
+- Automatically merge duplicate holder entries and clean unnecessary data  
 - Returns structured holder data for downstream analytics
 
 ---
