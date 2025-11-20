@@ -19,23 +19,8 @@ Built with clarity and automation in mind — no manual condition IDs, no guessi
 ---
 
 ## 📂 Project Structure
-project/
-│
-├── data/ # saved JSON / outputs (optional)
-├── src/
-│ ├── clients/
-│ │ └── polymarket/
-│ │ ├── fetch_events.py
-│ │ ├── filter_functions.py
-│ │ ├── holders.py
-│ │ └── constants.py
-│ └── utils/ # shared tools (optional)
-│
-├── main.py
-├── requirements.txt
-├── .env
-├── README.md
-└── .gitignore
+<img width="352" height="391" alt="image" src="https://github.com/user-attachments/assets/ea202cbc-0a30-4cda-bf7d-a379a2f799dd" />
+
 
 
 
