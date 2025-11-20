@@ -20,7 +20,8 @@ Built with clarity and automation in mind — no manual condition IDs, no guessi
 
 ##  Project Structure
 
-<img width="456" height="749" alt="image" src="https://github.com/user-attachments/assets/effca52e-7764-4f46-b62d-32af1eb2d282" />
+<img width="806" height="625" alt="image" src="https://github.com/user-attachments/assets/6ba82beb-2190-48f5-b878-7d6a04a3ea31" />
+
 
 
 
