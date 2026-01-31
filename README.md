@@ -1,6 +1,6 @@
 # polyfill-rs
 *(Experimental extensions for whale & event monitoring)*
-
+THIS IS A polyfill-rs Fork extending its usecases and outdated functions(Still under heavy construction!!)
 
 
 [![Crates.io](https://img.shields.io/crates/v/polyfill-rs.svg)](https://crates.io/crates/polyfill-rs)
@@ -75,3 +75,4 @@ Add to your `Cargo.toml`:
 ```toml
 [dependencies]
 polyfill-rs = "0.2.3"
+
