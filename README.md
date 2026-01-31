@@ -1,7 +1,7 @@
 # polyfill-rs
 *(Experimental extensions for whale & event monitoring)*
 
-![polyfill-rs](header.png)
+
 
 [![Crates.io](https://img.shields.io/crates/v/polyfill-rs.svg)](https://crates.io/crates/polyfill-rs)
 [![Documentation](https://docs.rs/polyfill-rs/badge.svg)](https://docs.rs/polyfill-rs)
@@ -52,4 +52,26 @@ This fork adds **non-trading analytical endpoints** designed for **market intell
 - `get_current_user_active_events`
 
 ### 📈 Orderbook & Market State
-- `get_orderboo_
+- `get_orderbook_dynamic`
+- `get_orderbook_static`
+
+### 🗓 Event Monitoring
+- `get_events`
+
+These endpoints are **read-heavy, analytics-oriented**, and optimized for:
+- Whale movement alerts
+- Suspicious activity detection
+- Event-level liquidity monitoring
+- Strategy research & automation
+
+> Expect breaking changes in these APIs while they mature.
+
+---
+
+## Quick Start
+
+Add to your `Cargo.toml`:
+
+```toml
+[dependencies]
+polyfill-rs = "0.2.3"
