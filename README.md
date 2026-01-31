@@ -18,7 +18,7 @@ Insider Intelligence & Whale Forensics for Polymarket
 </div>
 <br>
 <hr>
-
+Library under Heavy Construction!🚧🚧🚧<br>
 This is a polyfill-rs Fork. <br><br>
 
 While poly-fill-rs provides lightning speed gateways for automated trading(HFT), polymwk-rs is engineered specifically for analysts and developers who need to look beneath the surface of simple trades and Arbitrage and see Historical Patterns and Statistics.
@@ -87,5 +87,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     Ok(())
 }
 ```
+
 
 
