@@ -1,4 +1,5 @@
-# 🐋 Polymarket Intelligence Suite (polyfill-rs Fork)
+# 🐋 Polymwk  
+(polyfill-rs Fork)
 
 A high-performance intelligence layer built on a specialized fork of **polyfill-rs**. This project extends the core library to provide advanced wallet forensics, insider detection, and real-time whale-tracking capabilities.
 
@@ -20,3 +21,4 @@ cargo run --example whale
 
 # 3. Discover Fresh Insider Wallets
 cargo run --example find_fresh_wallets
+
