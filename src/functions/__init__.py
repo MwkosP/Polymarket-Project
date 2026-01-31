@@ -1,1 +1,0 @@
-from . import fetch_markets_events
